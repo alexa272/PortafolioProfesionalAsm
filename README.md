@@ -2,7 +2,7 @@
 
 Este es mi portafolio profesional donde muestro mis proyectos de Desarrollo de Software y Desarrollo web.
 
-![Alexandra-Santa-Muñoz](portafolio-asm.png)
+![Alexandra Santa Muñoz](portafolio-asm-1.PNG)
 
 ## Autora
 
