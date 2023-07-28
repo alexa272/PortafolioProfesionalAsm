@@ -10,11 +10,11 @@ Este es mi portafolio profesional donde muestro mis proyectos de Desarrollo de S
 
 ## Repositorio de Github
 
-Este es el [link](https://github.com/alexa272/developer-portfolio) a el repositorio del proyecto en github
+Este es el [link](https://github.com/alexa272/PortafolioProfesionalAsm) a el repositorio del proyecto en github
 
 ## Sitio web
 
-Aqui puedes ver en vivo mi portafolio [link](https://portafolioprofesional-asm.netlify.app/?)
+Aqui puedes ver en vivo mi portafolio [link](https://portafolioprofesionalasm.netlify.app/?)
 
 ## Tecnologías
 
